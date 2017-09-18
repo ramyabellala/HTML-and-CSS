@@ -3,14 +3,14 @@ body {
 	width: 100%;
 	max-width: 1024px;
 	margin: 0 auto;
-	background-color: #ffb84d;
+	background-color: #ffff66;
 	font-size: 62.5%;
 }
 
 header,
 main,
 footer {
-	background-color: #ff6666;
+	background-color: #99ff99;
 	font-size: 1.6em;
 }
 
@@ -85,6 +85,8 @@ footer p {
 img {
 	width: 75%;
 	max-width: 75%;
+	padding:1px;
+    border:1px solid #021a40;
 }
 
 @media screen and (max-width: 680px) {
