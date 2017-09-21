@@ -1,4 +1,12 @@
-
+.topsection{
+        background-color: #FF9933;
+}
+.midsection{
+        background-color: white;
+}
+.bottomsection{
+        background-color: #138808;
+}
 body {
 	width: 100%;
 	max-width: 1024px;
@@ -87,6 +95,11 @@ img {
 	max-width: 75%;
 	padding:1px;
     border:1px solid #021a40;
+}
+
+
+#bluetitle {
+	color:#000080;
 }
 
 @media screen and (max-width: 680px) {
